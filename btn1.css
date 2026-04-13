@@ -1,0 +1,25 @@
++.maincontainer{
+    height:60px;
+    width:100%;
+    justify-content: space-around;
+    background-color:orchid;
+    color:white;
+    position:absolute;
+}
+.world{
+    display:flex;
+    justify-content: space-around;
+    font-size: 18px;
+    list-style-type:none;
+    padding-top: 17px;
+    font-size: 23px;
+}
+.make{
+    height:700px;
+    width:100%;
+}
+button.hover{
+    color:black;
+    background-color: brown;
+    transform: scale(1,1);
+}

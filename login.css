@@ -1,0 +1,13 @@
+.img{
+    width:1500px;
+    height:725px;
+    position: relative;
+}
+.aru{
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: rgba(96, 93, 93, 0.76);
+}

@@ -1,0 +1,48 @@
+@media(min-width:900px)
+{
+.read{
+    
+    height: 750px;
+    background-color: rgb(67, 56, 76);
+    border-radius: 2px solid blue;
+}
+.were{
+    height: 750px;
+   
+}
+
+}
+
+@media(max-width:350px)
+{
+.read{
+  
+    height: 900px;
+    background-color: rgb(198, 161, 233);
+    border-radius: 2px solid blue;
+
+}
+.were{
+    height: 750px;
+
+
+}
+
+}
+
+@media(min-width:500px) and ( max-width:899px)
+{
+.read{
+   
+    height: 900px;
+    background-color: blueviolet;
+    border-radius: 2px solid blue;
+}
+.were{
+    height: 750px;
+}
+}
+
+
+
+    
